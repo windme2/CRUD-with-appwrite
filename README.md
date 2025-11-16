@@ -2,7 +2,7 @@
 
 REST API สำหรับระบบจัดการสินค้า พร้อม Appwrite Cloud Database และ Frontend UI แบบ Real-time
 
-**🌐 Live Demo:** [http://localhost:3000](http://localhost:3000)
+**🌐 Live Demo:** [https://crud-afxa.onrender.com/](https://crud-afxa.onrender.com/)
 
 ## ✨ คุณสมบัติ
 
